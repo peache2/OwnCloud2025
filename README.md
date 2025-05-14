@@ -105,6 +105,9 @@ Reiniciamos `apache2`
 
 ## Vamos a nuestro navegador de confianza y buscamos http://localhost
 
+### Introducimos los datos necesarios
+![cmd](37.png)
+
 * **usuari:** usuario
 * **contrasenya:** password
 * **base de dades:** bbdd
