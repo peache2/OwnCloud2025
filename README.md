@@ -34,5 +34,9 @@ En este tutorial explicativo voy a enseñar como podemos descargar OwnCloud de m
 ### 4- Vamos a asignarle todos los privilegios a nuestro usuario
 ![cmd](11.png)
 
+### 5- Salimos de la base de datos
+![cmd](12.png)
+
+
 
 
