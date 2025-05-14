@@ -107,6 +107,35 @@ Reiniciamos `apache2`
 
 ### Introducimos los datos necesarios
 ![cmd](37.png)
+![cmd](39.png)
+
+### Una vez dentro vamos a subir nuestros primeros archivos en carpetas en las cuales lo ordenaremos todo, para una buena gestion
+
+![cmd](40.png)
+![cmd](41.png)
+![cmd](42.png)
+![cmd](43.png)
+
+### Vamos a compartir la carpeta con el archivo con otros usuarios usando el `link` el cual compartiremos con todas las personas que queramos, aplicaremos la fecha limite, la cual no ayuda a poder mantener loas archivos algo mas seguros, ya que no siempre seran modificados por las personas que invitamos
+
+![cmd](44.png)
+![cmd](45.png)
+![cmd](46.png)
+
+### Vamos a añadir usuarios seleccionando el desplegable de nuestro nombre --> `Users`
+![cmd](47.png)
+
+### Una vez dentro vamos a crear 3 usuarios los cuales tendran, nombre, correo, y grupo
+![cmd](48.png)
+![cmd](49.png)
+![cmd](50.png)
+
+### Vamos a crear 3 grupos, `Editor, visualizador, y admin`
+
+![cmd](51.png)
+![cmd](52.png)
+
+### En la barra del usuarios, en groups asignaremos el grupo en el que queremos que este, podemos asignarle diferentes roless, para que cuando lo invitemos tenga restringido hacer *X* cosas con nuestras carpetas y archivos
 
 * **usuari:** usuario
 * **contrasenya:** password
