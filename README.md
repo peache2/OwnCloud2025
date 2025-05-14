@@ -1,6 +1,7 @@
 # OwnCloud2025
 ![OC](OwnCloud.png)
 En este tutorial explicativo voy a enseñar como podemos descargar OwnCloud de manera rapida en *Ubuntu 24.04* y conceptos basicos (usuarios, archivos, etc...)
+
 ## Instalación de apache2, mysql y php
 
 ### 1-Actualizamos nuestra maquina usando los 2 siguientes comandos
@@ -59,9 +60,52 @@ https://download.nextcloud.com/server/releases/latest.zip
 
 
 ### 5-Eliminamos el archivo index.html de apache2
-![cmd](20.png)
-
-### 6-Aplicamos todos los permisos
 ![cmd](21.png)
+
+### 6-Aplicamos todos los permisos a la aplicación web
 ![cmd](22.png)
 ![cmd](23.png)
+![cmd](24.png)
+
+## Instalación de PHP 7.4
+
+Instalamos ¡todos los requisitos de PPA:
+![cmd](27.png)
+
+Instalamos todo lo necesario para poder trabajar con PPA.
+![cmd](28.png)
+
+
+Actualitzamos los repositorios:
+![cmd](29.png)
+
+
+Vamos a instalar todas las librerias de `PHP` de la versión 7.4
+![cmd](30.png)
+
+![cmd](31.png)
+
+![cmd](32.png)
+
+Vamos a selecionar la version de `PHP` que necesitamos, en este caso la *7.4*
+![cmd](33.png)
+
+
+Activamos todos los modulos de `apache2` que estrictamente necesitamos
+![cmd](34.png)
+
+
+![cmd](35.png)
+
+
+Reiniciamos `apache2`
+![cmd](36.png)
+
+
+
+## Vamos a nuestro navegador de confianza y buscamos http://localhost
+
+* **usuari:** usuario
+* **contrasenya:** password
+* **base de dades:** bbdd
+* **domini:** localhost
