@@ -42,7 +42,7 @@ En este tutorial explicativo voy a enseñar como podemos descargar OwnCloud de m
 ![cmd](13.png)
 ![cmd](14.png)
 
-## Descarga del ficher de OwnCloud
+## Descarga del fichero de OwnCloud
 https://download.nextcloud.com/server/releases/latest.zip
 ![cmd](15.png)
 
@@ -109,6 +109,11 @@ Reiniciamos `apache2`
 ![cmd](37.png)
 ![cmd](39.png)
 
+* **usuari:** usuario
+* **contrasenya:** password
+* **base de dades:** bbdd
+* **domini:** localhost
+
 ### Una vez dentro vamos a subir nuestros primeros archivos en carpetas en las cuales lo ordenaremos todo, para una buena gestion
 
 ![cmd](40.png)
@@ -135,9 +140,6 @@ Reiniciamos `apache2`
 ![cmd](51.png)
 ![cmd](52.png)
 
-### En la barra del usuarios, en groups asignaremos el grupo en el que queremos que este, podemos asignarle diferentes roless, para que cuando lo invitemos tenga restringido hacer *X* cosas con nuestras carpetas y archivos
+### En la barra del usuarios, en `Groups` asignaremos el grupo en el que queremos que este, podemos asignarle diferentes roless, para que cuando lo invitemos tenga restringido hacer *X* cosas con nuestras carpetas y archivos
 
-* **usuari:** usuario
-* **contrasenya:** password
-* **base de dades:** bbdd
-* **domini:** localhost
+
