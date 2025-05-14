@@ -1,6 +1,6 @@
 # OwnCloud2025
 ![OC](OwnCloud.png)
-
+En este tutorial explicativo voy a enseñar como podemos descargar OwnCloud de manera rapida en *Ubuntu 24.04* y conceptos basicos (usuarios, archivos, etc...)
 ## Instalación de apache2, mysql y php
 
 ### 1-Actualizamos nuestra maquina usando los 2 siguientes comandos
