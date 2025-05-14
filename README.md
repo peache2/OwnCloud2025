@@ -37,6 +37,31 @@ En este tutorial explicativo voy a enseñar como podemos descargar OwnCloud de m
 ### 5- Salimos de la base de datos
 ![cmd](12.png)
 
+### 6- Comprobamos que todo funcion correctamente 
+![cmd](13.png)
+![cmd](14.png)
+
+## Descarga del ficher de OwnCloud
+https://download.nextcloud.com/server/releases/latest.zip
+![cmd](15.png)
+
+### 1-Copiaremos el archivo descargado a la carpeta `/var/www/html`
+![cmd](16.png)
+
+### 2-Nos dirijimos al directorio `/var/www/html`
+![cmd](17.png)
+
+### 3-Descomprimimos el archivo descargado
+![cmd](18.png)
+
+### 4-Copiamos los archivos de la carpeta /var/www/html al nombre de la carpeta de los archivos
+![cmd](19.png)
 
 
+### 5-Eliminamos el archivo index.html de apache2
+![cmd](20.png)
 
+### 6-Aplicamos todos los permisos
+![cmd](21.png)
+![cmd](22.png)
+![cmd](23.png)
