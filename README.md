@@ -1,6 +1,7 @@
 # OwnCloud2025
+![OC](OwnCloud.png)
 
-## Pasos de instalacion de OwnCloud en *UBUNTU 24.04*
+## Instalación de apache2, mysql y php
 
 ### 1-Actualizamos nuestra maquina usando los 2 siguientes comandos
 ![cmd](1.png)
@@ -18,3 +19,20 @@
 
 ### 5-Despues de esto reiniciaremos el servidor `apache2`
 ![cmd](7.png)
+
+## Configurando MySQL
+
+### 1-Accedemos dentro de la consola de MySQL `sudo mysql` 
+![cmd](8.png)
+
+### 2-Creamos la base de datos MySQL llamada `bbdd`
+![cmd](9.png)
+
+### 3-Creando el usuario. Vamos a crear una IP personalizada para que podamos acceder, en este caso la vamos a llamar `localhost`
+![cmd](10.png)
+
+### 4- Vamos a asignarle todos los privilegios a nuestro usuario
+![cmd](11.png)
+
+
+
