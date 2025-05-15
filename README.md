@@ -1,6 +1,6 @@
 # OwnCloud2025
 ![OC](OwnCloud.png)
-En este tutorial explicativo voy a enseñar como podemos descargar OwnCloud de manera rapida en `Ubuntu 24.04` y conceptos basicos (usuarios, archivos, etc...)
+En este tutorial explicativo voy a enseñar como podemos descargar OwnCloud de manera rapida en nuestra maquina virtual de IsardVDI con el sistema operativo `Ubuntu 24.04` y conceptos basicos (usuarios, archivos, etc...)
 
 ## Creación de la maquina virtual en `IsardVDI`
 
