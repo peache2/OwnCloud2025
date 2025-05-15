@@ -11,7 +11,7 @@ En este tutorial explicativo voy a enseñar como podemos descargar OwnCloud de m
 ### 2-Seleccionaremos el sistema que queramos en este caso lo haremos con `Ubuntu 24.04`
 ![ISARD](02.png)
 
-### 3-Configuración para poder mejorar el rendimiento de la maquina virtual para poder
+### 3-Esta es la mejor configuración la cual mejora el rendimiento de la maquina virtual para poder
 ![ISARD](03.png)
 
 ### `Crea`
