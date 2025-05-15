@@ -1,6 +1,21 @@
 # OwnCloud2025
 ![OC](OwnCloud.png)
-En este tutorial explicativo voy a enseñar como podemos descargar OwnCloud de manera rapida en *Ubuntu 24.04* y conceptos basicos (usuarios, archivos, etc...)
+En este tutorial explicativo voy a enseñar como podemos descargar OwnCloud de manera rapida en `Ubuntu 24.04` y conceptos basicos (usuarios, archivos, etc...)
+
+## Creación de la maquina virtual en `IsardVDI`
+
+### 1-Vamos a seleccionar el boton `Escriptori nou` para pasar a crear y configurar
+
+![ISARD](01.png)
+
+### 2-Seleccionaremos el sistema que queramos en este caso lo haremos con `Ubuntu 24.04`
+![ISARD](02.png)
+
+### 3-Configuración para poder mejorar el rendimiento de la maquina virtual para poder
+![ISARD](03.png)
+
+### `Crea`
+
 
 ## Instalación de apache2, mysql y php
 
